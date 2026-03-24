@@ -1,5 +1,5 @@
 # 📋 Sistema de Registro de Asistencia Sindical
-### Sindicato de Trabajadores — SLIM N°3
+### Sindicato de Trabajadores SLIM N°3
 
 Sistema automatizado de control de asistencia a asambleas sindicales, desarrollado en **Google Apps Script** sobre Google Sheets. Valida RUTs chilenos, detecta duplicados, protege registros y envía confirmaciones por correo electrónico con diseño HTML.
 
@@ -164,10 +164,10 @@ El sistema registra errores en la **columna H** de la fila afectada con el prefi
 
 ## 🤝 Contribuciones
 
-Este proyecto es de uso interno del **Dpto. de Comunicaciones — SLIM N°3**. Para proponer mejoras, abrir un _Issue_ o un _Pull Request_ en este repositorio.
+Este proyecto es de uso interno del **Dpto. de Comunicaciones — Sindicato de Trabajadores SLIM N°3**. Para proponer mejoras, abrir un _Issue_ o un _Pull Request_ en este repositorio.
 
 ---
 
 ## 📄 Licencia
 
-Uso interno — Sindicato Libre de Trabajadores de Metro S.A. N°3. Todos los derechos reservados.
+Uso interno — Sindicato de Trabajadores SLIM N°3. Todos los derechos reservados.
